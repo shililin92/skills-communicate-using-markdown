@@ -6,3 +6,4 @@
 ###### and you
 
 I tested on different sizes of headline
+![Image of Yaktocat copied from github foundation tutorial](https://octodex.github.com/images/yaktocat.png)
