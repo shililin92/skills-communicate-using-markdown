@@ -11,3 +11,6 @@ I tested on different sizes of headline
 ```python
 print("Hello World")
 ```
+- [ ] Turn on GitHUb pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
